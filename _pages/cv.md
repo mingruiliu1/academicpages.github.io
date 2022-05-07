@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Mingrui Liu's CV"
-author_profile: true
-redirect_from: 
-  - /cv/
-  - /cv.html
----
-
 EDUCATION 
 ======
 * B.Eng. in Optoelectronic Information Science and Engineering, Nanjing University of Posts and Telecommunications (NJUPT)	09/2018 - 06/2022         
