@@ -1,3 +1,12 @@
+---
+permalink: /cv
+
+author_profile: true
+redirect_from: 
+  - /cv/
+  - /resume.html
+---
+
 EDUCATION 
 ======
 * B.Eng. in Optoelectronic Information Science and Engineering, Nanjing University of Posts and Telecommunications (NJUPT)	09/2018 - 06/2022         
