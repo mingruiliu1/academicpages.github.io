@@ -1,6 +1,6 @@
 ---
 title: "Lab members in NJUPT"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/lab.jpg'>"
+excerpt: "Lab members in NJUPT<br/><img src='https://mingruiliu1.github.io/mingruiliu.github.io/images/lab.jpg'>"
 collection: portfolio
 ---
 
