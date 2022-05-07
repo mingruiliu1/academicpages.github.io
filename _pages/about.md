@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Mingrui Liu from Nanjing, China. I am a Ph.D student in Electrical and Computer Engineering in University of Illinois at Urbana-Champaign (UIUC), advised by Professor Oelze.
+This is Mingrui Liu from Nanjing, China.  
+I am a Ph.D student in Electrical and Computer Engineering in University of Illinois at Urbana-Champaign (UIUC), advised by Professor Oelze.
